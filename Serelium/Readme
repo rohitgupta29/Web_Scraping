@@ -1,1 +1,12 @@
+Project 1
+Requirements- Serelium, pandas and chrome driver(acc to chrome version)
+What- Data Scraping from Swaggy.com using Serelium. 
+Why- to get useful insights on ratings.
+How- Using Serelium and pandas and downloading chrome driver in same folder as the python file.
+When- August 29,2020
+Who- Got familiar to Serelium through Panjak. For this, got understanding through Nikhil Nair.
+
+My thinking- Taking this as a base model, many websites can be worked upon.
+Why Serelium- It provides a dummy chrome browser of own, automate the page and can be used to test data.
+
 
